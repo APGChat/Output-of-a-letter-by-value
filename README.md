@@ -1,6 +1,6 @@
 # Python programming language
 # Output-of-a-letter-by-value
-# The firs option:
+# The first option:
 the_english_alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G',
                         'H', 'I', 'J', 'K', 'L', 'M', 'N',
                         'O', 'P', 'Q', 'R', 'S', 'T', 'U',
